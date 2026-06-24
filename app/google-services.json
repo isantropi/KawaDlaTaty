@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "266399372808",
+    "project_id": "kawa-dla-taty",
+    "storage_bucket": "kawa-dla-taty.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:266399372808:android:c7c78fd76c91becdea23bd",
+        "android_client_info": {
+          "package_name": "pl.kawadlataty.dad"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBOLPWwOOROGKGCcYrTBrP0_waudjGUsMQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
